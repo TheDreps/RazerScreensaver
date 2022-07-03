@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+
+#4k Demo video kept locally due to file size, any will do.
+################################################################################
+
+/Assets/Life Untouched 4K Demo.mp4
